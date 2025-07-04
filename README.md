@@ -24,11 +24,6 @@ Currently learning backend, refining my DSA skills, and exploring real-world app
 
 ---
 
-## 📈 GitHub Stats
-
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshit00017pro&show_icons=true&theme=radical)
-
----
 
 ## 💬 Let’s Connect
 
