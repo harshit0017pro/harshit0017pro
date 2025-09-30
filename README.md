@@ -28,7 +28,7 @@ Currently learning backend, refining my DSA skills, and exploring real-world app
 ## 💬 Let’s Connect
 
 - Currently open to learning, internships & collabs  
-- Also into editing + visuals for underrated artists 🎧
+- Also into editing + visuals 
 
 ---
 
