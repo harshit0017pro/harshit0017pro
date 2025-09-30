@@ -10,7 +10,7 @@ Currently learning backend, refining my DSA skills, and exploring real-world app
 
 ## 🔧 Tech Stack
 
-- **Languages:** C, C++, Python, JavaScript
+- **Languages:** C++, Python, JavaScript
 - **Web:** HTML, CSS, JavaScript (learning React & Node.js)
 - **Core:** Git, GitHub, VS Code, GitHub Desktop
 - **Learning:** Backend dev, DBMS, DSA, and ML basics
