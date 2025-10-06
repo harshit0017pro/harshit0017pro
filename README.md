@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Harshit Vaishnav
 
 🎓 B.Tech CS Student (AI & Data Science)  
-💻 Future Full-Stack Dev | 🧠 AI & Web Dev Enthusiast | 🛠️ Building useful projects one commit at a time
+ 🧠 AI & Web Dev Enthusiast | 🛠️ Building useful projects one commit at a time
 
 I’m passionate about creating smart, efficient, and clean solutions — from C-based CLI apps to full-stack web projects.  
 Currently learning backend, refining my DSA skills, and exploring real-world applications of AI.
