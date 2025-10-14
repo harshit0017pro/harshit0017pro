@@ -29,7 +29,7 @@ Currently learning backend, refining my DSA skills, Expanding my creative thinki
 - 💼 Portfolio site (in progress)
 ---
 ## 💬 Let's Connect
-- Currently open to learning, internships & collabs  
+- Currently open to learning, hackhthons ,internships & collabs  
 - Also into editing + visuals 
 ---
 ## ⚡ Fun Fact
