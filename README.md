@@ -3,7 +3,7 @@
 🎓 B.Tech CS Student (AI & Data Science)
   
  🧠 AI & Web Dev Enthusiast | 🛠️ Building useful projects one commit at a time
-I'm passionate about creating smart, efficient, and clean solutions — from C-based CLI apps to full-stack web projects.
+I'm passionate about creating smart, efficient, secure and clean solutions — from C-based CLI apps to full-stack web projects.
   
 Currently learning backend, refining my DSA skills, Expanding my creative thinking and exploring real-world applications of AI.
 ---
