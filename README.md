@@ -33,4 +33,4 @@ Currently learning backend, refining my DSA skills, Expanding my creative thinki
 - Also into chess ,editing + visuals 
 ---
 ## ⚡ Fun Fact
-I don't just write code... I build sh*t that matters 😤
+I don't just write code.. I build sh*t that matters 😤
