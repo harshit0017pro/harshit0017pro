@@ -114,3 +114,8 @@ Currently learning AI/Ml engineering , refining my DSA skills, Expanding my crea
 <div align="center">
   
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshit0017pro&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit0017pro&theme=radical" alt="GitHub Streak" />
+</div>
+
