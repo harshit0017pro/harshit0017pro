@@ -112,9 +112,5 @@ Currently learning AI/Ml engineering , refining my DSA skills, Expanding my crea
 ---
 
 <div align="center">
-
-## ⚡ Fun Fact
-
-*Coming soon...*
-
+  
 </div>
