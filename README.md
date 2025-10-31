@@ -82,7 +82,7 @@ Currently learning AI/Ml engineering , refining my DSA skills, Expanding my crea
 - ✅ Continuous behind-the-scenes learning shaping every project
 
 
-
+<center>  
 ## 🌌 **Code Statistics** 🌌
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshit0017pro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
@@ -93,5 +93,5 @@ Currently learning AI/Ml engineering , refining my DSA skills, Expanding my crea
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harshit0017pro)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harshit0017pro)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnavharshit2005@gmail.com)
-
+</center>
 </div>
