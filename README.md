@@ -76,26 +76,6 @@ Currently learning AI/ML engineering, refining my DSA skills, and exploring real
 
 ---
 
-## 🧪✨ Python Unit Testing ✨🧪
-
-![Unit Testing Badge](https://img.shields.io/badge/Unit_Testing-Professional-00599C?style=for-the-badge&logo=pytest&logoColor=white) ![Quality Badge](https://img.shields.io/badge/Code_Quality-High-success?style=for-the-badge&logo=codacy&logoColor=white) ![Best Practices Badge](https://img.shields.io/badge/Best_Practices-Committed-blueviolet?style=for-the-badge&logo=checkmarx&logoColor=white)
-
-### 🎯 Testing Philosophy
-
-> **Quality-First Development**  
-> Writing unit tests is just as important as writing the code itself — it ensures reliability, catches bugs early, and makes future changes safer and easier.
-
-#### 🛡️ Testing Benefits
-
-- 🔍 **Early Bug Detection** - Catch issues before they reach production
-- 🔒 **Code Reliability** - Ensure consistent behavior across changes
-- ⚡ **Confident Refactoring** - Make improvements without fear
-- 📊 **Professional Standards** - Following industry best practices
-
-> While these test files and testing patterns may not always be front and center in my repos, this practice highlights my commitment to **software quality** and professional development practices.
-
----
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshit0017pro&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit0017pro&theme=radical" alt="GitHub Streak" />
