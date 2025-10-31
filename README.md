@@ -32,5 +32,15 @@ Currently learning backend, refining my DSA skills, Expanding my creative thinki
 - Currently open to learning, hackhthons ,internships & collabs 
 - Also into chess ,editing + visuals 
 ---
+## 📚 Skill Development
+Recently, I've been focusing heavily on strengthening my foundations in **core Python** — diving deeper into Python fundamentals, advanced concepts, and best practices. I've also been learning **Data Structures and Algorithms (DSA)** to improve my problem-solving abilities and write more efficient code.
+
+In parallel, I've been actively practicing coding challenges on platforms like **LeetCode**, which has helped me tackle algorithmic problems, optimize solutions, and develop a more structured approach to technical problem-solving. This continuous learning reflects a lot of behind-the-scenes growth that may not be directly visible in my public repositories, but it's shaping the way I approach every project.
+---
+## 🧪 Python Unit Testing
+Alongside building projects, I've been experimenting with **writing unit tests** for my Python code. I believe that writing tests is just as important as writing the code itself — it ensures reliability, catches bugs early, and makes future changes safer and easier.
+
+While these test files and testing patterns may not always be front and center in my repos, this practice highlights my commitment to **software quality** and professional development practices. I'm continuously working toward making testing a core part of my development workflow.
+---
 ## ⚡ Fun Fact
 I don't just write code.... I build sh*t that matters 😤
