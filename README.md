@@ -183,77 +183,9 @@ Currently learning AI/Ml engineering , refining my DSA skills, Expanding my crea
 
 ---
 
-<h2 align="center">🧪✨ Python Unit Testing ✨🧪</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Unit_Testing-Professional-00599C?style=for-the-badge&logo=pytest&logoColor=white" alt="Unit Testing Badge"/>
-  <img src="https://img.shields.io/badge/Code_Quality-High-success?style=for-the-badge&logo=codacy&logoColor=white" alt="Quality Badge"/>
-  <img src="https://img.shields.io/badge/Best_Practices-Committed-blueviolet?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Best Practices Badge"/>
-</p>
-
-<div align="center">
-
-### 🎯 Testing Philosophy
-
-</div>
-
-> **Quality-First Development**  
-> Writing unit tests is just as important as writing the code itself — it ensures reliability, catches bugs early, and makes future changes safer and easier.
-
-#### 🛡️ Testing Benefits
-
-- 🔍 **Early Bug Detection** - Catch issues before they reach production
-- 🔒 **Code Reliability** - Ensure consistent behavior across changes
-- ⚡ **Confident Refactoring** - Make improvements without fear
-- 📊 **Professional Standards** - Following industry best practices
-
-> While these test files and testing patterns may not always be front and center in my repos, this practice highlights my commitment to **software quality** and professional development practices.
-
----
-
 <div align="center">
   
 </div>
-
-
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-### Data Science & ML
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
----
-
-## 💬 Let's Connect
-
-- 🤝 Currently open to learning, hackathons, internships & collabs
-- ♟️ Also into chess, editing + visuals
-
----
-
-## 📚✨ Skill Development ✨📚
-
-![Python Badge](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white) ![LeetCode Badge](https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) ![DSA Badge](https://img.shields.io/badge/DSA-Learning-00C853?style=for-the-badge&logo=databricks&logoColor=white)
-
-### 🔥 Current Focus Areas
-
-> **Core Python Mastery**  
-> Diving deeper into Python fundamentals, advanced concepts, and best practices to build a rock-solid foundation.
-
-> **Data Structures & Algorithms**  
-> Strengthening problem-solving abilities and learning to write more efficient, optimized code.
-
-> **LeetCode Practice**  
-> Actively solving algorithmic challenges to develop structured thinking and tackle complex problems.
-
-#### 📈 Growth Highlights
-
-- ✅ Improved algorithmic thinking through consistent practice
-- ✅ Developed optimization techniques for complex solutions
-- ✅ Built structured approach to technical problem-solving
-- ✅ Continuous behind-the-scenes learning shaping every project
 
 ---
 
