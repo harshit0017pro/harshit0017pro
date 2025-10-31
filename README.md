@@ -81,30 +81,7 @@ Currently learning AI/Ml engineering , refining my DSA skills, Expanding my crea
 - ✅ Built structured approach to technical problem-solving
 - ✅ Continuous behind-the-scenes learning shaping every project
 
----
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Unit_Testing-Professional-00599C?style=for-the-badge&logo=pytest&logoColor=white" alt="Unit Testing Badge"/>
-  <img src="https://img.shields.io/badge/Code_Quality-High-success?style=for-the-badge&logo=codacy&logoColor=white" alt="Quality Badge"/>
-  <img src="https://img.shields.io/badge/Best_Practices-Committed-blueviolet?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Best Practices Badge"/>
-</p>
-
-<div align="center">
----
-
-<div align="center">
-  
-</div>
-
-
-
-<div align="center">
-  
-</div>
-
----
-
-<div align="center">
 
 ## 🌌 **Code Statistics** 🌌
 
