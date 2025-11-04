@@ -92,10 +92,7 @@ Currently learning AI/Ml engineering , refining my DSA skills, Expanding my crea
 ![GitHub Streak](https://streak-stats.demolab.com?user=harshit0017pro&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 </div>
 <div align="center">
-## ✨ Connect With Me Across The Universe ✨
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harshit0017pro)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harshit0017pro)
+## ✨ Connect With Me  ✨
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnavharshit2005@gmail.com)
 </div>
 </div>
