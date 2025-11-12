@@ -71,12 +71,6 @@
 - ✅ Developed optimization techniques for complex solutions  
 - ✅ Built structured approach to problem-solving  
 - ✅ Continuous behind-the-scenes learning shaping every project  
-
----
-
-## 🌌 Code Statistics 🌌  
-![GitHub Streak](https://streak-stats.demolab.com?user=harshit0017pro&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
 ---
 
 ## ✨ Connect With Me ✨  
